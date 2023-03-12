@@ -3,7 +3,7 @@
 		Plugin Name: SM GitHub Updater
 		Plugin URI:  https://github.com/adam-laita/sm-github-updater
 		Description: Test plugin for GitHub updating inspired by https://github.com/rayman813/smashing-updater-plugin
-		Version:     1.0.2
+		Version:     1.0.3
 		Author:      Adam Laita
 		Author URI:  https://www.laita.cz/
 		License:     GPL3
